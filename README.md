@@ -9,7 +9,7 @@
         <img src="" alt="" width="32px" align="center" />
         Sobre
       </h2>
-      <img src="https://i.imgur.com/gPSFZXO.png" alt="" width="200px" align="right" />
+      <img src="" alt="" width="200px" align="right" />
       <p>
         Graduanda em Engenharia de Controle de Automação,
 tenho amplo conhecimento em linguagens de programação: Python, C, C++; Data Science. 
