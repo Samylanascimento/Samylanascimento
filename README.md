@@ -6,7 +6,7 @@
   <main>
     <section id="secao-de-sobre">
       <h2>
-        <img src="https://em-content.zobj.net/source/apple/391/question-mark_2753.png" alt="" width="32px" align="center" />
+        <img src="" alt="" width="32px" align="center" />
         Sobre
       </h2>
       <img src="https://i.imgur.com/gPSFZXO.png" alt="" width="200px" align="right" />
@@ -22,7 +22,7 @@ Análise e resolução de problemas técnicos envolvendo a área de redes; Gest�
       </a>
       <a href="mailto:samyla.nascimento.20221@poli.ufrj.br">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-square&logo=gmail&logoColor=white" alt="" />
-      </a>
+      </a>hj
     </section>
     <section id="secao-de-experiencia">
       <h2>
